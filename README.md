@@ -17,7 +17,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/vishnu-sastha-k-j-484286356" target="blank">
+<a href="https://www.linkedin.com/in/vishnu-sasthakj/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
 </a>
 &nbsp;&nbsp;

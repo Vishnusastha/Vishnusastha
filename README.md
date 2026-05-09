@@ -17,11 +17,11 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank">
+<a href="www.linkedin.com/in/vishnu-sastha" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:vishnuswg@gmail.com">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="40" width="40" />
 </a>
 &nbsp;&nbsp;
